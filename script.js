@@ -1,7 +1,6 @@
-const km = parseFloat(document.querySelector('km'));
-const anni = parseInt(document.querySelector('anni'));
+const km = parseFloat(document.querySelector("#km"));
+const anni = parseInt(document.querySelector("#anni"));
 const invia = document.querySelector ('button');
-
 
 
 
